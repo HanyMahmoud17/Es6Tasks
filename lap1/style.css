@@ -1,0 +1,11 @@
+/*
+task 4
+
+
+// let s1 = new Set(["USA", "Canada", "Japan", "Germany"]);
+// let s2 = new Set(["Germany", "France", "USA", "Italy"]);
+
+// let difference = new Set([...s1].filter((x) => !s2.has(x)));
+// console.log(difference); // Output: Set { 'Canada', 'Japan' }
+
+*/

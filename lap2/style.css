@@ -1,0 +1,14 @@
+.tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+  .tab {
+    cursor: pointer;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  .posts {
+    margin-top: 2rem;
+  }
